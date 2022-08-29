@@ -166,8 +166,8 @@ privacy-policy:
 # constants to be replaced for
 constants:
   greetings: Hello
-  welcome: Welcome
-  sample: Sample
+  welcome: Data Reporter
+  sample: Data Reporter
 
 # for cookie consent
 cookie_consent:
