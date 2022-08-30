@@ -38,6 +38,10 @@ img: ":home-heading.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 {%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
 
-{{ website_info_text_second }}
+Hello there! My name is Adrian Nesta and I'm a native San Diegan currently based in Brooklyn, NY. 
+
+I am currently a data journalist, a gig that allows me combine my passion for storytelling with my skills finding, cleaning, analyzing, and visualizing data. I have reported on various topics including COVID-19, the labor and housing market, inflation, and transportation. 
+
+You can find more about me, my work, my blog, and how to contact me on this page.
+
