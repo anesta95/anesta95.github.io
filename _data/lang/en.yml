@@ -147,10 +147,10 @@ about:
 
 # for links layout
 links:
-  title: Links
-  button_name: Links
-  link_text: Web site
-  info_text: Info
+  title: Clips
+  button_name: Clips
+  link_text: Article
+  info_text: Description
 
 # for projects layout
 projects:

@@ -39,54 +39,88 @@ lng_pair: id_links
 ###########################################################
 page_data:
   main:
-    header: "Links"
-    info: "Your Links page description."
+    header: "Clips"
+    info: "Some selections of clips from publications I have contributed to:"
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
-      type: id_jekyiiliquid
-      color: "gray"
-    - title: "Web Design"
-      type: id_webdesign
-      color: "#F4A273"
-    - title: "Programming"
-      type: id_programming
-      color: "#62b462"
+    - title: "Investopedia"
+      type: id_investopedia
+      color: "#FF8C6C"
+    - title: "The Balance"
+      type: id_the_balance
+      color: "#1CD5BD"
+    - title: "Verywell Health"
+      type: id_verywell_health
+      color: "#13404F"
+    - title: "Greater Greater Washington"
+      type: id_ggwash
+      color: "#0F9535"
 
   list:
     -
-    # programming
-    - type: id_programming
-      title: "Stack OverFlow"
-      url: "https://stackoverflow.com/"
-      info: "Stack Overflow is a question and answer website for professional and enthusiastic programmers."
+    # Verywell Health
+    - type: id_verywell_health
+      title: "Timeline of COVID-19 Variants"
+      url: "https://www.verywellhealth.com/covid-variants-timeline-6741198"
+      info: "A breakdown into the prevalence and spread of the latest COVID-19 variants."
+    - type: id_verywell_health
+      title: "Verywell's Interactive Map Can Help You Plan Your Holiday Travel"
+      url: "https://www.verywellhealth.com/covid-cases-travel-interactive-map-5208431"
+      info: "Maps with per capita spread of COVID-19 cases and vaccination rates by states."
 
-    # jekyiiliquid
-    - type: id_jekyiiliquid
-      title: "Jekyll"
-      url: "https://jekyllrb.com/"
-      info: "Transform your plain text into static websites and blogs."
-    - type: id_jekyiiliquid
-      title: "Jekyll Cheat Sheet"
-      url: "https://cloudcannon.com/community/jekyll-cheat-sheet/"
-      info: "There are so many Jekyll variables and filters to remember and it can be tricky to keep it all in your head. This cheat sheet serves as a quick reference of everything Jekyll can do."
-    - type: id_jekyiiliquid
-      title: "Liquid for Designers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
-      info: "Liquid for Designers wiki on GitHub"
-    - type: id_jekyiiliquid
-      title: "Liquid for Programmers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
-      info: "Liquid for Programmers wiki on GitHub"
-    - type: id_jekyiiliquid
-      title: "Liquid Reference"
-      url: "https://shopify.dev/api/liquid/"
-      info: "Liquid is a template language created by Shopify and written in Ruby. It is now available as an open source project on GitHub"
+    # Investopedia
+    - type: id_investopedia
+      title: "The New York City Recovery Index"
+      url: "https://www.investopedia.com/new-york-city-nyc-economic-recovery-index-5072042"
+      info: "Tracking NYC's economic recovery from the COVID-19 pandemic."
+    - type: id_investopedia
+      title: "The U.S. Labor Market Recovery in Charts"
+      url: "https://www.investopedia.com/the-u-s-labor-market-recovery-in-charts-6541384"
+      info: "An analysis of how the U.S. economy recovered all the jobs it lost in the COVID-19 pandemic recession."
+    - type: id_investopedia
+      title: "Average Credit Card Interest Rate"
+      url: "https://www.investopedia.com/average-credit-card-interest-rate-5076674"
+      info: "Data on average credit card interest rates by bank, credit score, and card type."
 
-    # webdesign
-    - type: id_webdesign
-      title: "W3Schools"
-      url: "https://www.w3schools.com/"
-      info: "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many more."
+    # The Balance
+    - type: id_the_balance
+      title: "21% of Minimum Wage Earnings Guzzled by Gas Prices"
+      url: "https://www.thebalancemoney.com/21-percent-of-minimum-wage-earnings-guzzled-by-gas-prices-5425525"
+      info: "A look into how much rising gas prices are eating into minimum wage worker's earnings."
+    - type: id_the_balance
+      title: "Earning the Federal Minimum Wage Is Worth 17% Less Now"
+      url: "https://www.thebalancemoney.com/earning-the-federal-minimum-wage-is-worth-17-percent-less-now-5270858"
+      info: "An analysis of how some states raising their minimum wage has changed the overall minimum wage workforce."
+    - type: id_the_balance
+      title: "'Pink Tax' Pushes Prices Up Nearly 13%, Study Shows"
+      url: "https://www.thebalancemoney.com/pink-tax-pushes-prices-up-nearly-13-percent-study-finds-5222209"
+      info: "An study of data showing consumer price differences for personal care products marketed to men and women."
+    - type: id_the_balance
+      title: "Heating Your Home May Cost Over 25% More This Year"
+      url: "https://www.thebalancemoney.com/heating-your-home-may-cost-over-25-more-this-year-5213351"
+      info: "Looking into CPI data on the inflation impacts in home heating and energy costs for the winter of 2021 - 2022."
+    - type: id_the_balance
+      title: "Higher-Priced Basics Eat 70% of Social Security Checks"
+      url: "https://www.thebalancemoney.com/inflation-pushes-needs-to-70-of-social-security-checks-5324591"
+      info: "An analysis of how much rising inflation is eating into average social security income."
+    - type: id_the_balance
+      title: "The Average Cost of Buying a Home in the US"
+      url: "https://www.thebalancemoney.com/the-average-cost-of-buying-a-home-in-the-us-5323803"
+      info: "A deep dive into the breakout of the main homebuying costs in the largest US metro areas."
+    - type: id_the_balance
+      title: "The Average Cost of Owning a Home in the US"
+      url: "https://www.thebalancemoney.com/the-average-cost-of-owning-a-home-in-the-us-5323804"
+      info: "A deep dive into the breakout of the main home owning costs in the largest US metro areas."  
+
+    # Greater Greater Washington
+    - type: id_ggwash
+      title: "DC driving citations spike during the early stages of COVID-19"
+      url: "https://ggwash.org/view/78645/dc-driving-violations-spike-and-crashes-descrease-during-the-early-stages-of-covid-19"
+      info: "A look into rising driving crashes and violations in Washington, DC at the start of the COVID-19 pandemic."
+    - type: id_ggwash
+      title: "How bike crashes shifted out of downtown DC during the pandemic"
+      url: "https://ggwash.org/view/79134/how-the-bike-crashes-shifted-out-of-downtown-dc-during-the-pandemic"
+      info: "An analysis with maps looking into the geographic shift in bicycle accident location changes in the COVID-19 pandemic."
+    
 ---
