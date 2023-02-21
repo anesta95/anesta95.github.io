@@ -82,7 +82,7 @@ page_data:
       title: "Average Credit Card Interest Rate"
       url: "https://www.investopedia.com/average-credit-card-interest-rate-5076674"
       info: "Data on average credit card interest rates by bank, credit score, and card type."
-      type: id_investopedia
+    - type: id_investopedia
       title: "The New York City Economic Tracker"
       url: "https://www.investopedia.com/the-new-york-city-economy-tracker-7104393"
       info: "A biweekly story analyzing an aspect the New York City economy with NY1."
