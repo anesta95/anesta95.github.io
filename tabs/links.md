@@ -65,11 +65,23 @@ page_data:
       url: "https://www.verywellhealth.com/covid-variants-timeline-6741198"
       info: "A breakdown into the prevalence and spread of the latest COVID-19 variants."
     - type: id_verywell_health
+      title: "Insulin Price Cuts Barely Move the Needle for Americans"
+      url: "https://www.verywellhealth.com/american-cost-of-insulin-after-price-cuts-report-7483240"
+      info: "A look into how much more expensive insulin will be in the U.S. even after industry price cuts in response to the IRA."
+    - type: id_verywell_health
       title: "Verywell's Interactive Map Can Help You Plan Your Holiday Travel"
       url: "https://www.verywellhealth.com/covid-cases-travel-interactive-map-5208431"
       info: "Maps with per capita spread of COVID-19 cases and vaccination rates by states."
 
     # Investopedia
+    - type: id_investopedia
+      title: "Tech & Media Were Hit Hardest by Past Year’s Layoffs"
+      url: "https://www.investopedia.com/tech-and-media-were-hit-hardest-by-past-year-s-layoffs-7565586"
+      info: "A look into the only sector in the U.S. economy that actually experienced layoffs in late 2022 & early 2023."
+    - type: id_investopedia
+      title: "Millennial Homeownership Still Lagging Behind Previous Generations"
+      url: "https://www.investopedia.com/millennial-homeownership-still-lagging-behind-previous-generations-7510642"
+      info: "An analysis of how millennial homeownership rates are still lower than previous generations at the same age period."
     - type: id_investopedia
       title: "The New York City Recovery Index"
       url: "https://www.investopedia.com/new-york-city-nyc-economic-recovery-index-5072042"
