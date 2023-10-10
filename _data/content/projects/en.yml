@@ -12,9 +12,9 @@ page_data:
     back_color: "#13404F"
 
   category:
-    - title: "The Vision Zero Scorecard"
-      type: id_vz
-      color: "gray"
+    # - title: "The Vision Zero Scorecard"
+    #   type: id_vz
+    #   color: "gray"
     - title: "Am I Middle Class?"
       type: id_middle_class
       color: "#62b462"
@@ -24,24 +24,24 @@ page_data:
 
   list:
     # example
-    - type: id_vz
-      project_name: "The Vision Zero Scorecard"
-      project_excerpt: "A site tracking the success of vision zero programs in various US municipalities"
-      img: ":vision_zero_scorecard.jpg"
-      img_title: "img title1"
-      date: "2022-01-29"
-      post: |
-        More to come soon.
+    # - type: id_vz
+    #   project_name: "The Vision Zero Scorecard"
+    #   project_excerpt: "A site tracking the success of vision zero programs in various US municipalities"
+    #   img: ":vision_zero_scorecard.jpg"
+    #   img_title: "img title1"
+    #   date: "2022-01-29"
+    #   post: |
+    #     More to come soon.
 
     # picture
     - type: id_middle_class
       project_name: "Am I Middle Class?"
-      project_excerpt: "A site took look up where in the US income distribution your household falls in"
+      project_excerpt: "A site to check how your household compares to the U.S. median and the median of your provided local geography."
       img: ":am_i_middle_class.png"
       img_title: "img title2"
-      date: "2022-01-29"
+      date: "2023-10-10"
       post: |
-        More to come soon
+        Site deployed to https://www.middleclasscheck.com. GitHub repo at https://github.com/anesta95/middle_class_check.
 
     # quote
     - type: id_quote
