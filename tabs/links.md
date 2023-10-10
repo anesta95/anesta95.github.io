@@ -61,13 +61,17 @@ page_data:
     -
     # Verywell Health
     - type: id_verywell_health
-      title: "Timeline of COVID-19 Variants"
-      url: "https://www.verywellhealth.com/covid-variants-timeline-6741198"
-      info: "A breakdown into the prevalence and spread of the latest COVID-19 variants."
-    - type: id_verywell_health
       title: "Insulin Price Cuts Barely Move the Needle for Americans"
       url: "https://www.verywellhealth.com/american-cost-of-insulin-after-price-cuts-report-7483240"
       info: "A look into how much more expensive insulin will be in the U.S. even after industry price cuts in response to the IRA."
+    - type: id_verywell_health
+      title: " A Verywell Report: These Foods Are the Biggest Culprits of Foodborne Illness"
+      url: "https://www.verywellhealth.com/foodborne-illness-data-8285944"
+      info: "An analysis of CDC foodborne outbreak data of what foods and etiologies have caused the most foodborne illnesses."
+    - type: id_verywell_health
+      title: "Timeline of COVID-19 Variants"
+      url: "https://www.verywellhealth.com/covid-variants-timeline-6741198"
+      info: "A breakdown into the prevalence and spread of the latest COVID-19 variants."
     - type: id_verywell_health
       title: "Verywell's Interactive Map Can Help You Plan Your Holiday Travel"
       url: "https://www.verywellhealth.com/covid-cases-travel-interactive-map-5208431"
