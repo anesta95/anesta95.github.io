@@ -53,6 +53,9 @@ page_data:
     - title: "Verywell Health"
       type: id_verywell_health
       color: "#13404F"
+    - title: "City Limits"
+      type: id_city_limits
+      color: "#e32526"  
     - title: "Greater Greater Washington"
       type: id_ggwash
       color: "#0F9535"
@@ -133,6 +136,12 @@ page_data:
       url: "https://www.thebalancemoney.com/the-average-cost-of-owning-a-home-in-the-us-5323804"
       info: "A deep dive into the breakout of the main home owning costs in the largest US metro areas."  
 
+    # City Limits
+    - type: id_city_limits
+      title: "Tracking NYC's Record-High Homeless Shelter Population"
+      url: "https://citylimits.org/2023/12/07/tracking-nycs-record-high-homeless-shelter-population/"
+      info: "An analysis of the growth in the number and the change in the family structure of people staying in NYC homeless shelters from 2022 to 2023."
+    
     # Greater Greater Washington
     - type: id_ggwash
       title: "DC driving citations spike during the early stages of COVID-19"
