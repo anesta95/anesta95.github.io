@@ -35,13 +35,13 @@ page_data:
 
     # picture
     - type: id_middle_class
-      project_name: "Am I Middle Class?"
+      project_name: "<a href="https://www.middleclasscheck.com">Am I Middle Class?<a>"
       project_excerpt: "A site to check how your household compares to the U.S. median and the median of your provided local geography."
       img: ":am_i_middle_class.png"
       img_title: "img title2"
       date: "2023-10-10"
       post: |
-        Site deployed to https://www.middleclasscheck.com. GitHub repo at https://github.com/anesta95/middle_class_check.
+        <a href="https://www.middleclasscheck.com">Website<a>. <a href="https://www.middleclasscheck.com">GitHub Repo.<a>.
 
     # quote
     - type: id_quote
