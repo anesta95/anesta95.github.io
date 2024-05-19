@@ -16,7 +16,7 @@ img: ":nurses_working.jpg"
 comments_disable: true
 
 # publish date
-date: 2024-05-19 19:15:00 -0400
+date: 2024-05-19 15:23:00 -0400
 
 # seo
 # if not specified, date will be used.
