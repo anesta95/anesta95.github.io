@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: 
-title: "What's Up With Nursing?"
+title: "Nurses: In Demand, Well-Paid, and Burned Out"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
