@@ -41,7 +41,7 @@ img: ":home-heading.jpg"
 
 Hello there! My name is Adrian Nesta and I'm a native San Diegan currently based in Brooklyn, NY. 
 
-I am a data journalist, a gig that allows me combine my passion for storytelling with my skills finding, analyzing, and visualizing data. I currently work at Dotdash Meredith and have reported on various topics including COVID-19, prescription drug prices, the labor and housing markets, and inflation for sites like [Investopedia](https://www.investopedia.com/), [Verywell Health](https://www.verywellhealth.com/), and [The Balance](https://www.thebalancemoney.com/), among others.
+I am a data journalist, a gig that allows me to combine my passion for storytelling with my skills finding, analyzing, and visualizing data. I currently work at Dotdash Meredith and have reported on various topics including COVID-19, prescription drug prices, the labor and housing markets, and inflation for sites like [Investopedia](https://www.investopedia.com/), [Verywell Health](https://www.verywellhealth.com/), and [The Balance](https://www.thebalancemoney.com/), among others.
 
 I have also written about housing issues in the New York City area for the investigative non-profit [City Limits](https://citylimits.org/author/adrian-nesta/) as well as contributed data visualization work on corporate governance for the Financial Times specialist publication [Agenda](https://www.agendaweek.com/).  
 
