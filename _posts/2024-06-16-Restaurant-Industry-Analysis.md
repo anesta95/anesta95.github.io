@@ -11,7 +11,7 @@ category: economics
 # multiple tag entries are possible
 tags: [labor force, wages, GDP, inflation]
 # thumbnail image for post
-img: ":people_eating_out_2.jpg"
+img: ":people_eating_out_2.jpeg"
 # disable comments on this page
 comments_disable: true
 
