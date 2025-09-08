@@ -17,13 +17,13 @@ page_data:
     #   color: "gray"
     - title: "Am I Middle Class?"
       type: id_middle_class
-      color: "#33a02c"
+      color: "#636363"
     - title: "Food Safety Recalls"
       type: id_food_safety_recalls
       color: "#ff7f00"
-    # - title: "Quote"
-    #   type: id_quote
-    #   color: "#2FD0ED"
+    - title: "{econanalyzr} R package"
+      type: id_econanalyzr
+      color: "#33a02c"
 
   list:
     # example
@@ -53,6 +53,14 @@ page_data:
       date: "2024-11-14"
       post: |
         GitHub Repo at https://github.com/anesta95/food_safety_recalls.
+    - type: id_econanalyzr
+      project_name: "{econanalyzr} R package"
+      project_excerpt: "An R package that helps users obtain, analyze, and visualize economic data."
+      img: ":econanalyzr_hex_240x278_transparent.png"
+      img_title: "img title4"
+      date: "2025-09-07"
+      post: |
+        Project site at: https://justanesta.com/econanalyzr/. GitHub Repo at https://github.com/anesta95/econanalyzr.
 
     # quote
     - type: id_quote
