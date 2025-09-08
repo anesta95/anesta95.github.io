@@ -41,7 +41,7 @@ page_data:
       project_name: "Am I Middle Class?"
       project_excerpt: "A site to check how your household compares to the U.S. median and the median of your provided local geography."
       img: ":am_i_middle_class.png"
-      img_title: "img title2"
+      img_title: "A density distribution of household income in the United States"
       date: "2023-10-10"
       post: |
         Site deployed to https://www.middleclasscheck.com. GitHub Repo at https://www.github.com/anesta95/middle_class_check.
@@ -49,7 +49,7 @@ page_data:
       project_name: "Food Safety Recalls"
       project_excerpt: "A repository that contains data on food safety recalls published by the FDA and USDA."
       img: ":food_safety_recall.jpg"
-      img_title: "img title3"
+      img_title: "A picture of a food safety recall"
       date: "2024-11-14"
       post: |
         GitHub Repo at https://github.com/anesta95/food_safety_recalls.
@@ -57,7 +57,7 @@ page_data:
       project_name: "{econanalyzr} R package"
       project_excerpt: "An R package that helps users obtain, analyze, and visualize economic data."
       img: ":econanalyzr_hex_240x278_transparent.png"
-      img_title: "img title4"
+      img_title: "The {econanalyzr} package hexbin image"
       date: "2025-09-07"
       post: |
         Project site at: https://justanesta.com/econanalyzr/. GitHub Repo at https://github.com/anesta95/econanalyzr.
