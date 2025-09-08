@@ -56,7 +56,7 @@ page_data:
     - type: id_econanalyzr
       project_name: "{econanalyzr} R package"
       project_excerpt: "An R package that helps users obtain, analyze, and visualize economic data."
-      img: ":econanalyzr_hex_240x278_transparent_edited.png"
+      img: ":econanalyzr_hex_240x278_transparent_lasso.png"
       img_title: "The {econanalyzr} package hexbin image"
       date: "2025-09-07"
       post: |
